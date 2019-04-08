@@ -1,6 +1,6 @@
 # The Pig Latin Translator
 
-An Epicodus-led course that 
+An app using JS/jQuery/RegEx that converts user input string into their pig latin translation.
 
 ## Setup and Use
 
